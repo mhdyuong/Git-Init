@@ -1,1 +1,2 @@
 Learning git init 
+Hey...I created a git repo and pushed it to github
